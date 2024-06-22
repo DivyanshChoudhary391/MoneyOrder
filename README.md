@@ -1,6 +1,6 @@
 <h1 align="center"> Money Order</h1>
 <p align="center">
-  <img src="./frontend/public//assets/project-moneyorder.jpg" alt="Money order">
+  <img src="frontend/public/assets/moneyorder.jpg" alt="Money order">
 </p>
 
 ####  A Paytm-inspired payment platform facilitating user sign-up, seamless peer-to-peer transactions, and efficient user search functionalities for easy money transfers.
