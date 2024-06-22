@@ -19,7 +19,7 @@
 
 1. **Clone the repository**
 ``` bash
-git clone 
+git clone https://github.com/DivyanshChoudhary391/MoneyOrder.git
 ```
 
 2. **Navigate to the project directory and install dependencies for the backend**
